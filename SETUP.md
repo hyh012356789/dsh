@@ -1,5 +1,7 @@
 # SETUP
 
+**English** | [简体中文](SETUP.zh-CN.md)
+
 Instructions for an agent that sets up dsh-superagent with its operator. If you are a person, ask your coding agent to read this file and follow it.
 
 ## How to run the setup
